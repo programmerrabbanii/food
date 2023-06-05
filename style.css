@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1160px;
+    margin: auto;
+}
+.menu-one{
+
+    text-align: center;
+    background-color: #2E219A;
+    padding: 10px;
+    
+}
+.menu-one img{
+    height: 30px;
+    
+}
+.menu{
+    background-color: red;
+    text-align: center;
+}
+ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 0px 10px;
+    border-left: 1px solid #fff;
+}
+ul{
+    text-align: center;
+    
+    padding: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+}
+.bannaar{
+    background-image: url(./img/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustration-backgroundadvertising-image_58694.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+
+
+}
+.contant{
+    text-align: center;
+    
+    height: auto;
+    top: 150px;
+    position: relative;
+ 
+    
+     
+}
+.contant h2{
+    color: #fff;
+    font-size: 40px;
+    padding: 10px;
+  
+   
+
+}
+.contant p{
+    color: white;
+}
+a.contac{
+    text-decoration: none;
+     display: inline-block;
+     margin-top: 20px;
+   
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #008000;
+    text-transform: capitalize;
+
+}
+
+.hero{
+    background-image: url(./img/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding: 58px 0px;
+    
+
+}
+.hero-2{
+    position: relative;
+    top: 140px;
+    text-align: center;
+    background-color: #008000;
+    color: #ffff;
+    padding: 15px 0px;
+
+}
+.hero-3{
+    position: relative;
+    top: 140px;
+    text-align: center;
+    background-color: yellow;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 15px;
+
+}
+
+.btn{
+    position: relative;
+    top: 140px;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    width: 70px;
+    height: 15px;
+    margin: auto;
+    padding: 14px 30px;
+    margin-top: 15px;
+    
+}
+.btn a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.about{
+    background-color: #4AB75C;
+    height: 600px;
+    padding: 100px 0px;
+
+}
+.about-img{
+    width: 45%;
+ display: inline-block;
+ 
+
+
+}
+.about-con{
+    width: 50%;
+    display: inline-block;
+    width: 400px;
+
+}
+
+.about-img img{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+}
+.aboule-con{
+    width: 50%;
+    display: inline-block;
+    width: 400px;
+    
+    
+
+}
+.about-phoot{
+    width: 40%;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+
+
+
+}
+.about-phoot img{
+    width: 100px;
+    height: 100px;
+    
+
+}
+footer{
+    background-color: #2C1A8E;
+
+}
+ul li a{
+
+}
+ footer  ul li{
+    border: 1px solid white;
+    padding: 14px;
+    border-radius: 10px;
+    
+   
+
+}
